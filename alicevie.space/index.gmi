@@ -1,0 +1,30 @@
+```ASCII art header reading Alice Vie
+    ___    ___              _    ___
+   /   |  / (_)_______     | |  / (_)__
+  / /| | / / / ___/ _ \    | | / / / _ \
+ / ___ |/ / / /__/  __/    | |/ / /  __/
+/_/  |_/_/_/\___/\___/     |___/_/\___/
+```
+# Alice's cozy web home
+
+## About
+I'm a Linux SysOps Admin at a big cloud provider living in Houston, TX. I write code for fun, and love discussing movies, tv shows, and games. I'm a game developer by night, though I have nothing to show for it. I've only recently become comfortable sharing my code and creations with the world, which means stuff will eventually be available publicly.
+
+Favorites:
+* Linux
+* Dragonlance
+* Stars Without Number
+* Pico-8
+* Small Web
+* Handheld emulation devices
+
+To be quite honest, I'm an embittered late-20s individual that is pining for the days of the past. I miss a smaller web, before advertising trackers, personal brands, and startups. I want to return to the age of the personal web page and bulletin boards, and I've found communities that help me feel cozy in the past, such as the Gemini protocol, Pico-8 development, and Mastodon.
+
+=> https://grandma.space 🐘 My Mastodon instance, grandma.space
+=> https://grandma.space/@AliceVie ✋ Me, on grandma.space
+=> https://peoplemaking.games/@AliceVie 👋 Me, on peoplemaking.games
+
+=> https://www.lexaloffle.com/pico-8.php 🎮 Pico-8, the fantasy console by Lexaloffle Games
+
+=> https://gemini.cicumlunar.space ♊︎ Gemini on http
+=> gemini://gemini.circumlunar.space ♊️ Gemini on Gemini
